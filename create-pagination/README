@@ -1,0 +1,12 @@
+# Description
+We have a small app, it only has 3 pages.
+There is a Posts page, that lists all 100 posts currently.
+
+# Question
+How would you alter the index.php file to make the page
+paginate the posts to 10 per page?
+
+# Other Info
+Look to the public/index.php file, that is the whole app.
+(It does of course leverage a library in the lib/ folder,
+but thats not really important.)
